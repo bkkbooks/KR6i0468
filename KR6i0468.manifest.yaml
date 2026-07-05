@@ -34,9 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0468_000.yaml, hash: 'sha256:cbebd37f9714b7c1bee5346dec04c5c097f0cf4968a198e1cac91177b394e621'}
-  - {seq: 1, filename: KR6i0468_001.yaml, hash: 'sha256:3a06c18d4d787d2faa29a4c79b152bbff74cf4dcc7ea8afb95b8f8b13ed799fa'}
+  - {seq: 1, filename: KR6i0468_001.yaml, hash: 'sha256:a7dcbc1a1ea821e88f6d55d4250988c5e313187355a347fa02ed6938e209f58f'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0468_001.markers.yaml, hash: 'sha256:85bcf757f45dad1840611645000a18a586c98d0973e957df0cd87d4223b5fc85'}
+  - {seq: 0, role: markers, filename: assets/KR6i0468_000.markers.yaml, hash: 'sha256:ce729685f2c0a714d7d6e8e70232f3a5c4ce366ef3900aeb7586c1e6ba7aea36'}
+  - {seq: 1, role: markers, filename: assets/KR6i0468_001.markers.yaml, hash: 'sha256:097c9542b68210bedcb5de3aa070769635b956d1a3bac53b6420cd50259b8f9b'}
 table_of_contents:
 - ref:
     seq: 1
@@ -58,7 +59,4 @@ table_of_contents:
   label: 散侍法
   type: mulu
   level: 1
-hash: sha256:6bbff1c0084f40be8066980a2a06a11564bd08a28b498a8d3abb7fbb5d8c66ff
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:32e9ab3646bec81aab37f854ce7065ad9f20d737c13555869e2665e8899776e1
